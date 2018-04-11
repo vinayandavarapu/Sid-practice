@@ -1,6 +1,6 @@
-i=10
+i=100
 
-if i==10:
+if i==100:
    print i
 else:
       print "nothing"
